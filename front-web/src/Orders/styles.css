@@ -160,6 +160,7 @@
   
   .filter {
     width: 80%;
+    font-size: 15px;
   }
   
   .filter > div {
