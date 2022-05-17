@@ -34,6 +34,7 @@ A aplicação consiste em um sistema de vendas de uma pizzaria. O usuário selec
 - ReactJS
 - React Native
 - MapBox
+- React Content Loader
 - Expo
 ## Implantação em produção
 - Back end: Heroku
@@ -68,6 +69,7 @@ cd front-web
 
 # instalar dependências
 npm install
+npm i react-content-loader --save
 
 # executar o projeto
 npm start
