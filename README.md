@@ -74,3 +74,20 @@ npm i react-content-loader --save
 # executar o projeto
 npm start
 ```
+
+## Front web mobile
+
+```bash
+# clonar repositório
+git clone https://github.com/daniellegb/dsdeliver-sds2
+
+# entrar na pasta do projeto front end web
+cd front-mobile
+
+# instalar dependências
+expo install @react-navigation/stack @react-native-community/masked-view react-native-screens react-native-gesture-handler @react-navigation/native expo-app-loading @expo-google-fonts/open-sans expo-font expo-modules-core
+
+# executar o projeto
+npm start
+```
+
